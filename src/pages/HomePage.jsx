@@ -114,53 +114,6 @@ export default function HomePage() {
       </div>
       <div className="logo-section wf-section">
         <div className="container-1060 w-container">
-          <div className="client-image-wrapper">
-            <div className="client--image-wrapper">
-              <img
-                src="https://uploads-ssl.webflow.com/6051f4237c04701dd0f9616a/60542d7a59ab6f0344286e14_Bitmap.png"
-                loading="lazy"
-                width={96}
-                alt=""
-                className="client-image"
-              />
-            </div>
-            <div className="client--image-wrapper">
-              <img
-                src="https://uploads-ssl.webflow.com/6051f4237c04701dd0f9616a/60542dced576300777c48e77_Bitmap%20(1).png"
-                loading="lazy"
-                width={126}
-                alt=""
-                className="client-image"
-              />
-            </div>
-            <div className="client--image-wrapper">
-              <img
-                src="https://uploads-ssl.webflow.com/6051f4237c04701dd0f9616a/60542e1a05c63b184065c28a_Bitmap%20(2).png"
-                loading="lazy"
-                width={125}
-                alt=""
-                className="client-image"
-              />
-            </div>
-            <div className="client--image-wrapper">
-              <img
-                src="https://uploads-ssl.webflow.com/6051f4237c04701dd0f9616a/60542e1aaf8047818de883c5_Bitmap%20(3).png"
-                loading="lazy"
-                width={110}
-                alt=""
-                className="client-image"
-              />
-            </div>
-            <div className="client--image-wrapper">
-              <img
-                src="https://uploads-ssl.webflow.com/6051f4237c04701dd0f9616a/60542e1a3fa581b2e7ce8bc3_Bitmap%20(4).png"
-                loading="lazy"
-                width={145}
-                alt=""
-                className="client-image"
-              />
-            </div>
-          </div>
         </div>
       </div>
       <div className="cards-section wf-section">
@@ -593,12 +546,7 @@ export default function HomePage() {
         <div className="container-1060 w-container">
           <div className="footer-wrapper">
             <div className="logo-wrapper-footer">
-              <img
-                src="https://uploads-ssl.webflow.com/6051f4237c04701dd0f9616a/6058026fb96d3f28cf736408_Logo%20(2).png"
-                loading="lazy"
-                alt=""
-                className="footer-logo"
-              />
+            
             </div>
             <div className="copyright-block">
               <div className="footer-txt text-lg leading-5 font-bold">
